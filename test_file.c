@@ -1,2 +1,3 @@
 this is test_file.c
-edit by ksw0226
+edited by ksw0226 #1
+edited by ksw0226 #2
